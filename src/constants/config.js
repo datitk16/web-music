@@ -1,0 +1,1 @@
+export const API_SONG='https://itunes.apple.com/search?media=music&term='
